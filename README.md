@@ -1,4 +1,4 @@
-## This is PLP, pyhton projects):
+## Pyhton projects):
 
 ***this folder contains some common python project**
-# smile <python made easy >
+# easy python <python made easy >
