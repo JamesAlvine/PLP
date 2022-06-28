@@ -1,0 +1,8 @@
+    Briefly explain what the internet is.
+internet is the interconnection of many computer in a network system that connects millions of web servers.
+
+    Describe the protocols of the internet.
+    Explain the Internet addressing modes.
+    Discuss the various types of servers.
+
+
